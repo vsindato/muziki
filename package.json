@@ -1,0 +1,22 @@
+{
+  "name": "muziki",
+  "version": "1.0.0",
+  "description": "A visualizer for a user's spotify music profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Sindato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
