@@ -1,2 +1,2 @@
 # muziki
-An app that quickly lets you find upcoming concerts by your recently favorite artists
+An app that lets you quickly find upcoming concerts by your recently favorite artists on Spotify.
