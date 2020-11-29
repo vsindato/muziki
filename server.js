@@ -32,7 +32,7 @@ var client_secret = '609c7eb39b5141438000355e6c846e60'; // Your secret
 var redirect_uri = `http://localhost:${port}/redirect`; // Your redirect uri
 
 // Songkick credentials
-var songkick_api_key = 'AvWChfXtCflwWfQR';
+var songkick_api_key = 'XXXXXXXXXX';
 
 /*
  * Generates a random string containing numbers and letters
